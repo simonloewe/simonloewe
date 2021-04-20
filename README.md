@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 🕔 When bored I like to solve other peoples issues on [@Stackoverflow](https://www.stackoverflow.com/users/9682760/simon?tab=profile)
 
-🧐 Find further about me on or get in contact [@LinkedIn](https://www.linkedin.com/in/simon-loewe)
+🧐 Find further about me or get in contact on [@LinkedIn](https://www.linkedin.com/in/simon-loewe)
 
 🖥 Things I've been working on:
 
