@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 📚 Part Time CS Student [@HSLU](https://www.hslu.ch) 2017 - 2021 
 
-👨🏼‍💻 Part Time [@Valtech Switzerland](https://www.valtech.com) as Junior DevOps Engineer
+👨🏼‍💻 Full Time [@Zuehlke](https://www.zuehlke.com/en) as Professional Software Engineer
 
 🕔 When bored I like to solve other peoples issues on [@Stackoverflow](https://www.stackoverflow.com/users/9682760/simon?tab=profile)
 
