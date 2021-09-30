@@ -5,6 +5,8 @@ My intention was to learn a little mobile development. Took it quite far with th
 
 *Because of assets/ icons and fonts that I used, of which I have the rights to use them but do not have the rights of redistributing them, I cannot make this repository public*.
 
+This App is currently not available in the appstore anymore as I lack the time to maintain it.  
+
 Some images:
  <table style="width:100%">
   <tr>
